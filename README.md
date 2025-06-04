@@ -34,7 +34,7 @@ In this assignment, I performed exploratory data analysis on a dataset of cars u
 
 ---
 
-### 🔗 [Click here to view the notebook](SA2025_W1.ipynb)
+### 🔗 [Click here to view the notebook](https://github.com/Rashmiyawalkar11/Summer-Analytics-2025-Week1/blob/main/Summer%20Analytics%20Assignment%201.ipynb)
 
 ---
 
